@@ -22,6 +22,13 @@ ModelImporter:
     100028: joint9
     100030: Pelvis
     100032: Spine
+    100034: polySurface3
+    100036: transform1
+    100038: Body1
+    100040: Cap
+    100042: Eye
+    100044: Cap1
+    100046: joint1
     400000: //RootNode
     400002: BLeg
     400004: Body
@@ -39,12 +46,34 @@ ModelImporter:
     400028: joint9
     400030: Pelvis
     400032: Spine
+    400034: polySurface3
+    400036: transform1
+    400038: Body1
+    400040: Cap
+    400042: Eye
+    400044: Cap1
+    400046: joint1
     2300000: //RootNode
+    2300002: Body1
+    2300004: Cap
+    2300006: Eye
+    2300008: Body
+    2300010: Cap1
     3300000: //RootNode
+    3300002: Body1
+    3300004: Cap
+    3300006: Eye
+    3300008: Body
+    3300010: Cap1
     4300000: Body
+    4300002: Eye
+    4300004: Body1
+    4300006: Cap
+    4300008: Cap1
     7400000: Walk
     9500000: //RootNode
     13700000: Body
+    13700002: Cap1
   materials:
     importMaterials: 1
     materialName: 0
@@ -133,7 +162,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 10
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -152,7 +181,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
