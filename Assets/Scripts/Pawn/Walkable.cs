@@ -1,6 +1,4 @@
 ﻿using UnityEngine;
 
-public class Walkable : MonoBehaviour
-{
-
-}
+// Use this like tag
+public class Walkable : MonoBehaviour { }
